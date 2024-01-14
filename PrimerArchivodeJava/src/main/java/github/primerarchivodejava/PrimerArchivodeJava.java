@@ -14,7 +14,7 @@ public class PrimerArchivodeJava {
         System.out.println("Probando");
         
         for (int i=0; i < 10; i++){
-            System.out.println("HOLA");
+            System.out.println("JEJEJE");
         }
     }
 }
